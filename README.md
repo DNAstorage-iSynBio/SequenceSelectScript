@@ -9,6 +9,9 @@ Main script. Typing following command to getting more help informations.
 python3 DNAStorageSequence.py -h
 ```
 ## Usage
+
+**Require**  
+* numpy, pear
 ```
 python DNAStorageSequence.py -p1 [PE1 fastq file] -p2 [PE2 fastq file] -f [default] -c [config path] -t [default]
 ```
