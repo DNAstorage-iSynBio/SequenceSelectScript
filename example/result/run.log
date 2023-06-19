@@ -1,0 +1,27 @@
+step1	PEAR_mearge	Start:	Wed Aug  3 10:24:23 2022
+step1	PEAR_mearge	End:	Wed Aug  3 10:24:33 2022
+step2	Mark_PEAR_dup	Start:	Wed Aug  3 10:24:33 2022
+step2	Mark_PEAR_dup	End:	Wed Aug  3 10:24:35 2022
+step3	Select_sequences	Start:	Wed Aug  3 10:24:35 2022	tools
+step3	Select_sequences	End:	Wed Aug  3 10:24:45 2022	tools
+step4	BLAST	Start:	Wed Aug  3 10:24:45 2022	tools
+step4	BLAST	End:	Wed Aug  3 10:24:57 2022	tools
+step5	BLAST_result_select	Start:	Wed Aug  3 10:24:57 2022	tools
+step5	BLAST_result_select	End:	Wed Aug  3 10:24:57 2022	tools
+step3	Select_sequences	Start:	Wed Aug  3 10:24:57 2022	3390
+step3	Select_sequences	End:	Wed Aug  3 10:25:06 2022	3390
+step4	BLAST	Start:	Wed Aug  3 10:25:06 2022	3390
+step4	BLAST	End:	Wed Aug  3 10:25:18 2022	3390
+step5	BLAST_result_select	Start:	Wed Aug  3 10:25:18 2022	3390
+step5	BLAST_result_select	End:	Wed Aug  3 10:25:18 2022	3390
+step3	Select_sequences	Start:	Wed Aug  3 10:25:18 2022	big
+step3	Select_sequences	End:	Wed Aug  3 10:25:28 2022	big
+step4	BLAST	Start:	Wed Aug  3 10:25:28 2022	big
+step4	BLAST	End:	Wed Aug  3 10:25:39 2022	big
+step5	BLAST_result_select	Start:	Wed Aug  3 10:25:39 2022	big
+step5	BLAST_result_select	End:	Wed Aug  3 10:25:39 2022	big
+
+All samples finished!!
+tools
+3390
+big
